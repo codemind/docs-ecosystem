@@ -300,18 +300,27 @@ Commercial Tools
 
 Database Master
 ~~~~~~~~~~~~~~~
+Nucleon Database Master is a modern, powerful, intuitive and easy to use database management tool for MongoDB and other RDBMS. 
+It supports MongoDB, Oracle, SQLServer, MySQL, POstgreSQl, DB2, ODBC and OleDB connections.
 
 - `Database Master from Nucleon Software <http://www.nucleonsoftware.com/>`_
 
-.. REMOVED THIS TEXT:
-   Seems to be written in .net for windows (windows installer).
-
-Features:
-
-- Tree view for dbs and collections
-- Create/Drop indexes
-- Server/DB stats
-- Support RDBMS (MySQL, postgres, ...)
+Main Features:
+- Database Manager: Create/Drop Databases and View Info
+- Collection Manager : Create/Drop Collections, View properties
+- Advanced Data Visualization: Tree View and Table Data View
+- Advanced and True Data Editor for MongoDB
+- JSON Query Edtor
+- LINQ to MongoDB Query Editor
+- Index Manager: Create/Drop indexes
+- Rich Data Export Features (MS Excel, Word, PDF, RTF, XML, HTML, JSON, CSV etc.)
+- Data Import Features: Data Import from  XML and  CSV
+- Data Import from other RDBMS and MongoDB ( from Oracle, SQLServer, MySQL..etc)
+- MongoDB Server/DB stats
+- MongoDB User Management
+- Map&Reduce Editor, Query Editor and GridFS Manager
+- Reports: MongoDB Database and Reports
+- Support RDBMS (MySQL, Postgres, Oracle, SQLServer, DB2, Informix, Ingres, ODBC, OleDB, FireBird etc.)
 
 .. image:: /images/admin-uis-DatabaseMasterMainView.gif
 
